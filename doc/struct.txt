@@ -1,0 +1,35 @@
+{
+    "type": "tree",
+    "name": "named",
+    "items": [
+        {
+            "type": "file",
+            "name": "ddadfasdfddf",
+            "blks": "guid1",
+            "cmnt": "guid2"
+        },
+        {
+            "type": "file",
+            "name": "akjdfkjads",
+            "blks": "guid1",
+            "cmnt": "guid2"
+        },
+        {
+            "type": "tree",
+            "name": "akjdfkjads",
+            "guid": "guid1"
+        }
+    ]
+}
+
+==========blks==================
+{
+  "type": "blks",
+  "items": [
+    "uuid",
+    "guid",
+    "uuid",
+    "guid"
+  ]
+}
+=====
